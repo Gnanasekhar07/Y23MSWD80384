@@ -1,0 +1,14 @@
+Java script :
+java is an object an object oreinted programming language
+java script is object based 
+object oriented means it requires an environment where as object based is plug and play
+ java is multithreaded java script is single threaded
+java script is compiler java is entrpruter
+*important topics to learn 
+1.types of variabe declarations,arrays,collections,loops,functions,class and referencing object
+react project structure:
+node_module:consists packages,libraries which are installed using npm or installed packages inside react used for project
+important note node module should not be kept in git hub
+public directory consits all images files which can be used to share
+*index.html is the only html page to work with react application
+sourece code(src):consists all codes relate to react application
